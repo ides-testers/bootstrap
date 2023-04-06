@@ -16,6 +16,7 @@ import Tooltip from './tooltip'
  * ------------------------------------------------------------------------
  */
 
+
 const NAME = 'popover'
 const VERSION = '4.3.1'
 const DATA_KEY = 'bs.popover'

@@ -17,6 +17,8 @@ import Tab from './src/tab'
 import Toast from './src/toast'
 import Tooltip from './src/tooltip'
 
+
+//test typing 123x
 export {
   Alert,
   Button,
