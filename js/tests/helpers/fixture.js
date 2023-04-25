@@ -16,6 +16,7 @@ export const getFixture = () => {
 
   return fixtureEl
 }
+//test
 
 export const clearFixture = () => {
   const fixtureEl = getFixture()
